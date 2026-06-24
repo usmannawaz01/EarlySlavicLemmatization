@@ -10,4 +10,4 @@ The second repository, **OCS Lemmatization Benchmark**, provides the newly annot
 https://github.com/usmannawaz01/ocs-lemmatization-benchmark
 
 
-Together, these repositories support the reproducibility of the work experiments and provide supplementary material for the accepted and submitted papers reported in this thesis. Dataset files are included or linked according to the redistribution permissions of the original sources.
+Together, these repositories support the reproducibility of the work experiments and provide supplementary material for the accepted and submitted papers reported in this work. Dataset files are included or linked according to the redistribution permissions of the original sources.
