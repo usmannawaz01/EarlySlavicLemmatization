@@ -1,1 +1,1 @@
-We plan to release the source code, dataset documentation, pretrained models, inference scripts, evaluation code, and other supporting materials in September 2026. These resources will be made publicly available through the project’s GitHub repositories to support reproducibility and future research.
+We plan to release the source code, dataset documentation, pretrained models, inference scripts, evaluation code, and other supporting materials in September 2026. These resources will be made publicly available to support reproducibility and future research.
