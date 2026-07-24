@@ -1,1 +1,11 @@
-We plan to release the source code, dataset documentation, pretrained models, inference scripts, evaluation code, and other supporting materials in September 2026. These resources will be made publicly available to support reproducibility and future comparisons.
+# Early Slavic Lemmatization
+
+The research outputs associated with this work are made available through multiple repositories.
+
+The first repository, **Old Slavic Lemma**, is available here:
+
+https://github.com/usmannawaz01/OldSlavicLemma
+
+The second repository, **OCS Lemmatization Benchmark**, provides the newly annotated Old Church Slavonic benchmark material, evaluation settings and scripts:
+
+https://github.com/usmannawaz01/ocs-lemmatization-benchmark
