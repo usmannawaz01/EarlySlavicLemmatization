@@ -2,7 +2,7 @@
 
 The research outputs associated with this work are made available through multiple repositories.
 
-The first repository, **Old Slavic Lemma**, is available here:
+The first repository, **OldSlavicLemma**, is available here:
 
 https://github.com/usmannawaz01/OldSlavicLemma
 
